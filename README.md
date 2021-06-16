@@ -1,2 +1,3 @@
 # Titanic_Classification
-I try to solve titanic data from Kaggle with some various models.
+
+Using titanic data set from kaggle to create classification model whether the passenger survived or not
